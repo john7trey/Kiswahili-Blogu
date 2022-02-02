@@ -1,2 +1,2 @@
-# Kiswahili-Blogu
-This is a swahili project
+# Blooger_Website
+This is the complete blooger website create using html and css
